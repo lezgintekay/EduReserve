@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduReserve.Api", "EduReserve.Api\EduReserve.Api.csproj", "{03680835-3D19-4114-84F4-AFA144D3659C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduReserve.Core", "EduReserve.Core\EduReserve.Core.csproj", "{AAF3924B-EAD0-4943-B579-E91AA8A0E902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduReserve.Data", "EduReserve.Data\EduReserve.Data.csproj", "{BB99DA87-778D-41F0-A7F6-EA453E30924B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03680835-3D19-4114-84F4-AFA144D3659C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03680835-3D19-4114-84F4-AFA144D3659C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03680835-3D19-4114-84F4-AFA144D3659C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03680835-3D19-4114-84F4-AFA144D3659C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF3924B-EAD0-4943-B579-E91AA8A0E902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF3924B-EAD0-4943-B579-E91AA8A0E902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF3924B-EAD0-4943-B579-E91AA8A0E902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF3924B-EAD0-4943-B579-E91AA8A0E902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB99DA87-778D-41F0-A7F6-EA453E30924B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB99DA87-778D-41F0-A7F6-EA453E30924B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB99DA87-778D-41F0-A7F6-EA453E30924B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB99DA87-778D-41F0-A7F6-EA453E30924B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
