@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EduReserve.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+292463fa451763cb43856af91d1e67c1dd94d2c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e5bf6c482cc999299956eaa06eae934bd1a703a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EduReserve.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EduReserve.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
